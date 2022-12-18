@@ -1,7 +1,7 @@
 import string
 import random
 
-# Reduce coupling by make all the car info a dynamic variables 
+# Reduce coupling by make all the car info a dynamic variables .
 class VehicleInfo:
     brand : str
     catalogue_price : int
