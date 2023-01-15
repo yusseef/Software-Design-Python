@@ -12,3 +12,10 @@ class Student(Person):
 
 s1 = Student()
 print(s1.type())
+
+
+def generator(n):
+    for i in range(n):
+        yield i
+
+values = generator(500)
