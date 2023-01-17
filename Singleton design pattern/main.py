@@ -1,5 +1,5 @@
-#singleton design pattern means that we have   class with only one object
-
+#singleton design pattern means that we have  class with only one object
+#can be used when we establish a connection with database so we need justone object to achieve that
 class Person:
     __instance = None
 
