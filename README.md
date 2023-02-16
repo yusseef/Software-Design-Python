@@ -7,6 +7,7 @@ A software design snippest repo for Software architecture and design by python.
 - Coupling and cohesion
 - Dependecy inversion
 - strategy design pattern
+- SOLID principles.
 
 
 ## Acknowledgements
